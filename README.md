@@ -1,2 +1,2 @@
-# PureProphetNet
-Official Repo for PureProphetNet
+# Pure2DopeNet
+Official Repo for Pure2DopeNet
